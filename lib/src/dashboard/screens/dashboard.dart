@@ -22,7 +22,7 @@ class _DashboardState extends State<Dashboard> {
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: const [
-                Text("Dashboard Page")
+                Text("Dashboard Page Clone")
               ],
             ),
           ),
